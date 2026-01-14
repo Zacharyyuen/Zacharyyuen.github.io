@@ -1,7 +1,7 @@
 # About Me
 ## Zachary Yuen
 
-![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Me!](Egg.png)
 
 I am currently a Junior studying **Electrical and Computer Engineering** at the [*University of Washington*](https://www.washington.edu).
 
