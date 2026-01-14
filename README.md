@@ -15,7 +15,13 @@ My coursework focuses more on **VLSI** and **Computer Architecture**, but outsid
 
 ### Courses Taken at UW
 | Course Name             | Course Number |
-|-----------------------------------------|
+|-------------------------|---------------|
 | Computer Architecture   | EE 469        |
 | Analog Circuits/Filters | EE 233        |
 | VLSI Layout Design      | EE 476        |
+
+| Language | Experience |
+|---------:|------------|
+| Python   | Minimal    |
+|  HTML    | Authored many web pages    |
+|  SQL     | Can write complex joins       |
