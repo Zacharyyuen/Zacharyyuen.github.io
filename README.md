@@ -19,9 +19,3 @@ My coursework focuses more on **VLSI** and **Computer Architecture**, but outsid
 | Computer Architecture   | EE 469        |
 | Analog Circuits/Filters | EE 233        |
 | VLSI Layout Design      | EE 476        |
-
-| Language | Experience |
-|---------:|------------|
-| Python   | Minimal    |
-|  HTML    | Authored many web pages    |
-|  SQL     | Can write complex joins       |
